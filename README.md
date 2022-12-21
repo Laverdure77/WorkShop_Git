@@ -38,11 +38,11 @@ git status
 
 ### 2. clone repo in vscode source control
 
-	From source control panel in VS Code
+From source control panel in VS Code
 
 
 # From local folder : init
-	( empty or already populated )
+( empty or already populated )
 
 
 ### 1. init repo from terminal
@@ -71,4 +71,4 @@ git status               # You are good to go!! 😁
 
 ### 2. init repo from vscode source control
 
-	From source control panel.
+From source control panel.
